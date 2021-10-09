@@ -1,7 +1,6 @@
 ### Opa bão? Me chamo Fabiano!
 
 - 🌱 Estudando TypeScript e Node
-- 📫 Contate-me no email: fabianorocha102003@gmail.com
 
 <div>
   <a href="https://github.com/yDanonin">
