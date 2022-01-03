@@ -1,5 +1,5 @@
 ### Hey, what's up? My name is Fabiano 
-- 🎉 I have 18 years old 
+- 🎉 I'm 18 years old 
 - 🌱 Studying Blockchain  
 
 <div>
