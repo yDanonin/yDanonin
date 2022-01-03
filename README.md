@@ -1,6 +1,6 @@
-### Opa bão? Me chamo Fabiano!
-
-- 🌱 Estudando TypeScript e Node
+### Hey, what's up? My name is Fabiano 
+- 🎉 I have 18 years old 
+- 🌱 Studying Blockchain  
 
 <div>
   <a href="https://github.com/yDanonin">
