@@ -1,5 +1,7 @@
 ##### ~$ whoami
 
+<img style = "margin-top: 40px;" align="right" width = "width" src="./images/computer-illustration.png">
+
 ## Hello, I'm Fabiano 🙂
 
 ```javascript
@@ -25,6 +27,7 @@ module.exports = {
 }
 ```
 <div >
+  
   <a href="https://mail.google.com/mail/u/0/#search/fabianorocha102003%40gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiano-rocha-84a581200/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -39,7 +42,7 @@ module.exports = {
   <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
 
   ## My stats
-  <div align="center">
+  <div>
     <a href="https://github.com/yDanonin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yDanonin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDanonin&layout=compact&langs_count=16&theme=tokyonight"/>
