@@ -9,7 +9,7 @@ const getCurrentWorkplace = () => {
   return 'smart software'
 }
 
-const getDailyKnowledge = () => {
+const getInformationAboutMe = () => {
   return { 
     age: 18,
     college: '👨‍💻 Computer Science'
