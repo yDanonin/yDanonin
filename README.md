@@ -1,8 +1,10 @@
 ##### ~$ whoami
 
-<img style = "margin-top: 40px;" align="right" width = "width" src="./images/computer-illustration.png">
+
 
 ## Hello, I'm Fabiano 🙂
+
+<img style = "margin-top: 40px;" align="right" width = "width" src="./images/computer-illustration.png">
 
 ```javascript
 const getCurrentWorkplace = () => {
