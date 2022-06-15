@@ -12,7 +12,7 @@ const getCurrentWorkplace = () => {
 const getDailyKnowledge = () => {
   return { 
     age: 18,
-    college: '👨‍💻 computer science'
+    college: '👨‍💻 Computer Science'
   }
 }
 
