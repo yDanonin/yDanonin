@@ -32,6 +32,10 @@ module.exports = {
   
   <a href="https://mail.google.com/mail/u/0/#search/fabianorocha102003%40gmail.com" target="_blank"><img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabiano-barros-rocha-84a581200/" target="_blank"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/_FabianoBarros_" target="_blank"><img src ="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
+  <a href="https://discordapp.com/users/yDanoning#8478" target="_blank"><img src ="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" target="_blank"></a>
+  
+  
 </div>
 
 <div style="display: inline_block">
