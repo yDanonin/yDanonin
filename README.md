@@ -40,7 +40,7 @@ module.exports = {
 
 <div style="display: inline_block">
   
-  ## Languages and tools that I use ⚙️
+  ## Main languages and tools I use ⚙️
   <kbd> ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) </kbd>
   <kbd> ![Solidity](https://img.shields.io/badge/solidity-C0C0C0?style=for-the-badge&logo=solidity&logoColor=black) </kbd>
   <kbd> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </kbd>
