@@ -24,7 +24,7 @@ const getFutureGoal = () => {
 
 module.exports = {
   getCurrentWorkplace,
-  getDailyKnowledge,
+  getInformationAboutMe,
   getFutureGoal
 }
 ```
