@@ -47,7 +47,7 @@ module.exports = {
   <kbd> ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) </kbd>
   <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
 
-  ## My stats 📊
+<!--  ## My stats 📊
   <div>
     <a href="https://github.com/yDanonin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yDanonin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -55,5 +55,5 @@ module.exports = {
   </div>
 </div>
   
-<br>
+<br>-->
 
