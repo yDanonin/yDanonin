@@ -40,12 +40,14 @@ module.exports = {
 
 <div style="display: inline_block">
   
-  ## Main languages and tools I use ⚙️
+  ## Tools I like the most ⚙️
   <kbd> ![JavaScript](https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black) </kbd>
-  <kbd> ![Solidity](https://img.shields.io/badge/solidity-C0C0C0?style=for-the-badge&logo=solidity&logoColor=black) </kbd>
-  <kbd> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </kbd>
   <kbd> ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) </kbd>
+  <kbd> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) </kbd>
+  <kbd> ![Solidity](https://img.shields.io/badge/solidity-C0C0C0?style=for-the-badge&logo=solidity&logoColor=black) </kbd>
+  <kbd> ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) </kbd>
   <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
+  <kbd> ![Rust](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) </kbd>
 
  ## My stats 📊
   <div>
