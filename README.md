@@ -49,13 +49,13 @@ module.exports = {
   <kbd> ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) </kbd>
   <kbd> ![Rust](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) </kbd>
 
- ## My stats 📊
+ <!--## My stats 📊
   <div>
     <a href="https://github.com/yDanonin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yDanonin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yDanonin&layout=compact&langs_count=16&theme=tokyonight"/>
   </div>
-</div>
+</div>-->
   
 <br>
 
