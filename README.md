@@ -13,7 +13,7 @@ const getCurrentWorkplace = () => {
 
 const getInformationAboutMe = () => {
   return { 
-    age: 19,
+    age: 20,
     college: '👨‍💻 Computer Science'
   }
 }
