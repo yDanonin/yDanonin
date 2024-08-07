@@ -7,9 +7,6 @@
 <img style = "margin-top: 40px;" align="right" width = "width" src="./images/computer-illustration.png">
 
 ```javascript
-const getCurrentWorkplace = () => {
-  return 'smart software'
-}
 
 const getInformationAboutMe = () => {
   return { 
