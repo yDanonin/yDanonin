@@ -15,14 +15,9 @@ const getInformationAboutMe = () => {
   }
 }
 
-const getFutureGoal = () => {
-  return '🚀 to learn web3'
-}
 
 module.exports = {
-  getCurrentWorkplace,
   getInformationAboutMe,
-  getFutureGoal
 }
 ```
 <div >
