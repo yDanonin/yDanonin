@@ -10,7 +10,7 @@
 
 const getInformationAboutMe = () => {
   return { 
-    age: 20,
+    age: 21,
     college: '👨‍💻 Computer Science'
   }
 }
